@@ -1,0 +1,202 @@
+{
+	"cnpj_raiz": "27830229",
+	"razao_social": "WLL SISTEMAS LTDA",
+	"capital_social": "10000.00",
+	"responsavel_federativo": "",
+	"atualizado_em": "2023-10-14T03:00:00.000Z",
+	"porte": {
+		"id": "01",
+		"descricao": "Micro Empresa"
+	},
+	"natureza_juridica": {
+		"id": "2062",
+		"descricao": "Sociedade Empresária Limitada"
+	},
+	"qualificacao_do_responsavel": {
+		"id": 49,
+		"descricao": "Sócio-Administrador "
+	},
+	"socios": [
+		{
+			"cpf_cnpj_socio": "***742448**",
+			"nome": "KATIA DE PAULA SIMOES NETO LEITE",
+			"tipo": "Pessoa Física",
+			"data_entrada": "2018-09-11",
+			"cpf_representante_legal": "***000000**",
+			"nome_representante": null,
+			"faixa_etaria": "51 a 60 anos",
+			"atualizado_em": "2023-10-14T03:00:00.000Z",
+			"pais_id": "1058",
+			"qualificacao_socio": {
+				"id": 22,
+				"descricao": "Sócio"
+			},
+			"qualificacao_representante": null,
+			"pais": {
+				"id": "1058",
+				"iso2": "BR",
+				"iso3": "BRA",
+				"nome": "Brasil",
+				"comex_id": "105"
+			}
+		},
+		{
+			"cpf_cnpj_socio": "***114998**",
+			"nome": "WILLIAM FRANCISCO LEITE",
+			"tipo": "Pessoa Física",
+			"data_entrada": "2017-05-26",
+			"cpf_representante_legal": "***000000**",
+			"nome_representante": null,
+			"faixa_etaria": "31 a 40 anos",
+			"atualizado_em": "2023-10-14T03:00:00.000Z",
+			"pais_id": "1058",
+			"qualificacao_socio": {
+				"id": 49,
+				"descricao": "Sócio-Administrador "
+			},
+			"qualificacao_representante": null,
+			"pais": {
+				"id": "1058",
+				"iso2": "BR",
+				"iso3": "BRA",
+				"nome": "Brasil",
+				"comex_id": "105"
+			}
+		}
+	],
+	"simples": {
+		"simples": "Sim",
+		"data_opcao_simples": "2017-05-26",
+		"data_exclusao_simples": null,
+		"mei": "Não",
+		"data_opcao_mei": null,
+		"data_exclusao_mei": null,
+		"atualizado_em": "2023-10-14T03:00:00.000Z"
+	},
+	"estabelecimento": {
+		"cnpj": "27830229000100",
+		"atividades_secundarias": [
+			{
+				"id": "6201501",
+				"secao": "J",
+				"divisao": "62",
+				"grupo": "62.0",
+				"classe": "62.01-5",
+				"subclasse": "6201-5/01",
+				"descricao": "Desenvolvimento de programas de computador sob encomenda"
+			},
+			{
+				"id": "6201502",
+				"secao": "J",
+				"divisao": "62",
+				"grupo": "62.0",
+				"classe": "62.01-5",
+				"subclasse": "6201-5/02",
+				"descricao": "Web desing"
+			},
+			{
+				"id": "6202300",
+				"secao": "J",
+				"divisao": "62",
+				"grupo": "62.0",
+				"classe": "62.02-3",
+				"subclasse": "6202-3/00",
+				"descricao": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+			},
+			{
+				"id": "6203100",
+				"secao": "J",
+				"divisao": "62",
+				"grupo": "62.0",
+				"classe": "62.03-1",
+				"subclasse": "6203-1/00",
+				"descricao": "Desenvolvimento e licenciamento de programas de computador não customizáveis"
+			},
+			{
+				"id": "6204000",
+				"secao": "J",
+				"divisao": "62",
+				"grupo": "62.0",
+				"classe": "62.04-0",
+				"subclasse": "6204-0/00",
+				"descricao": "Consultoria em tecnologia da informação"
+			},
+			{
+				"id": "6311900",
+				"secao": "J",
+				"divisao": "63",
+				"grupo": "63.1",
+				"classe": "63.11-9",
+				"subclasse": "6311-9/00",
+				"descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet"
+			}
+		],
+		"cnpj_raiz": "27830229",
+		"cnpj_ordem": "0001",
+		"cnpj_digito_verificador": "00",
+		"tipo": "Matriz",
+		"nome_fantasia": null,
+		"situacao_cadastral": "Ativa",
+		"data_situacao_cadastral": "2017-05-26",
+		"data_inicio_atividade": "2017-05-26",
+		"nome_cidade_exterior": null,
+		"tipo_logradouro": "RUA",
+		"logradouro": "JORGE DE LIMA",
+		"numero": "22",
+		"complemento": null,
+		"bairro": "GABRIEL PIZA",
+		"cep": "18135690",
+		"ddd1": "11",
+		"telefone1": "47842417",
+		"ddd2": null,
+		"telefone2": null,
+		"ddd_fax": null,
+		"fax": null,
+		"email": "atendimento@assessoriaamaral.com.br",
+		"situacao_especial": null,
+		"data_situacao_especial": null,
+		"atualizado_em": "2023-10-14T03:00:00.000Z",
+		"atividade_principal": {
+			"id": "6209100",
+			"secao": "J",
+			"divisao": "62",
+			"grupo": "62.0",
+			"classe": "62.09-1",
+			"subclasse": "6209-1/00",
+			"descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+		},
+		"pais": {
+			"id": "1058",
+			"iso2": "BR",
+			"iso3": "BRA",
+			"nome": "Brasil",
+			"comex_id": "105"
+		},
+		"estado": {
+			"id": 26,
+			"nome": "São Paulo",
+			"sigla": "SP",
+			"ibge_id": 35
+		},
+		"cidade": {
+			"id": 3835,
+			"nome": "São Roque",
+			"ibge_id": 3550605,
+			"siafi_id": "7113"
+		},
+		"motivo_situacao_cadastral": null,
+		"inscricoes_estaduais": [
+			{
+				"inscricao_estadual": "653097398114",
+				"ativo": true,
+				"atualizado_em": "2023-11-07T03:00:00.000Z",
+				"estado": {
+					"id": 26,
+					"nome": "São Paulo",
+					"sigla": "SP",
+					"ibge_id": 35
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+URL API (request GET): https://publica.cnpj.ws/cnpj/CNPJ_DIGITADO
+
+
+RF 01 - O aplicativo dever possuir uma imagem no topo, embarcada no App
+
+RF 02 - O campo CNPJ deve ter seu preenchimento obrigatório, exibindo mensagem abaixo quando não foi preenchido 
+
+RF 03 - O campo CNPJ deve possuir 14 caracteres, caso seja digitado uma quantidade inferior dever ser exibido um "ShowDialog" informando sobre a obrigatoriedade
+
+RF 04 - Deve ser exibido em "ShowDialog", exceptions que possam ocorrer, exemplo falta de internet
+
+RF 05 - Ao clicar no botão "Pesquisar" deve ser enviada uma requisição para API, informando o CNPJ digitado
+
+RF 06 - Deve ser preenchido com o retorno os campo:
+- RAZÃO SOCIAL
+- NOME FANTASIA
+- CNPJ RAIZ
+
+RF 07 - A imagem deve monitorar o evento OnLongPress, caso ocorra, devem ser limpos todos os campos da tela
+
