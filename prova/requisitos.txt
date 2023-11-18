@@ -18,3 +18,5 @@ RF 06 - Deve ser preenchido com o retorno os campo:
 
 RF 07 - A imagem deve monitorar o evento OnLongPress, caso ocorra, devem ser limpos todos os campos da tela
 
+RF 08 - Ao clicar no botão pesquisar, o botão dever mudar o label para "Pesquisando ...", ao fim da consulta o botão deve retornar o label para "Pesquisar"
+
